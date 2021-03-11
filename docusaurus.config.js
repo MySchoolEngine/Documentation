@@ -2,7 +2,7 @@
 module.exports = {
   title: 'GLEngine documentation',
   tagline: 'Documentation of small school mob renderer/engine',
-  url: 'https://myschoolengine.github.io/GLEngine-Documentation/',
+  url: 'https://myschoolengine.github.io/Documentation/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
